@@ -1,0 +1,6 @@
+iframe {
+    margin: none;
+    padding: none;
+    background: rgb(0, 0, 0); /* this is just to make the frames easier to see */
+    border: none;
+}
