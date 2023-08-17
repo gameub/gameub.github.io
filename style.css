@@ -1,0 +1,96 @@
+@font-face {
+  font-family: rubik;
+  src: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+}
+
+body {
+  background-color: black;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.fancy-word {
+  color:white;
+  font-size: 3vw;
+  opacity: 0.4;
+  font-family: Arial;
+  margin:2.5rem;
+  text-transform: uppercase;
+}
+
+.fancy-word:hover {
+  opacity: 1;
+}
+
+.spacer {
+  color:black;
+  margin:0.25rem;
+  font-size: 1.5vw
+}
+
+.half-spacer {
+  color:black;
+  margin:0rem;
+  font-size: .5vw;
+}
+
+.game {
+  color:white;
+  opacity: 0.4;
+  font-family: Arial;
+  text-decoration: none;
+  margin:8px;
+}
+
+.game:hover {
+  opacity: 1.0;
+  color:white;
+  font-family: Arial;
+  text-decoration: none;
+}
+
+.game-container {
+  margin: auto;
+  width: 90%;
+  border: 0px solid green;
+  text-align: center;
+  padding: 10px;
+}
+
+p {
+  color:white;
+  font-size: 1.7vw;
+  font-family: Arial;
+  margin:0rem;
+}
+
+a {
+  color:white;
+  font-size: 1.7vw;
+  font-family: Arial;
+  margin:0rem;
+}
+
+h1 {
+  color:white;
+  font-size: 2.25vw;
+  font-family: Arial;
+  margin:0rem;
+}
+
+h2 {
+  color:white;
+  font-size: 2.5vw;
+  font-family: Arial;
+  margin:0rem;
+}
+
+h3 {
+  color:white;
+  font-size: 3vw;
+  font-family: Arial;
+  margin:0rem;
+}
