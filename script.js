@@ -3,13 +3,8 @@ spl=document.getElementById('splash');
 var splashes=[
     "GoGaurdian is watching...",
     "Still not blocked.",
-    "Hey teacher!",
-    "3kh0 clone.",
-    "💀",
-    "ohio.",
     "Don't wake the sleeping pills!",
     "Sponsored by NordVPN!",
-    "Emo kid: 🪢",
     "69",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "one time I took an insane poop in the toilet.",
