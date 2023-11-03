@@ -12,6 +12,10 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
 
+.obvlink {
+  color: rgb(190, 190, 190)
+}
+
 .fancy-word {
   color:white;
   font-size: 3vw;
@@ -23,6 +27,7 @@ a:active { text-decoration: none; }
 
 .fancy-word:hover {
   opacity: 1;
+  text-decoration: none;
 }
 
 .spacer {
