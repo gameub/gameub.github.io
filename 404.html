@@ -5,15 +5,18 @@
     <title>New Tab</title>
     <link href="style.css" type="text/css" rel="stylesheet">
     <link href="https://unpkg.com/movement.css/movement.css" rel="stylesheet">
-    <script src="node_modules/swup/dist/Swup.modern.js"></script>
 </head>
 <body id="swup" class="transition-fade">
-    <div class="topnav">
-        <div data-m="reveal" class="active"><a href="index.html">Home</a></div>
-        <div data-m="reveal"><a href="games.html">Games</a></div>
-    </div>
-
-    <h1>404</h1>
-    <h2>Page Not Found.</h2>
+    <div id="navigation" data-m="reveal-right" data-m-delay="2.0">
+        <div class="line">
+          <a class="fancy-word" href="index.html">home</a>
+          <a class="fancy-word" href="games.html">games</a>
+          <a class="fancy-word" href="changelog.html">changelog</a>
+        </div>
+      </div>
+      <p class="spacer" data-m="bounce-up">SPACER</p>
+      <h2 data-m="bounce-up" data-m-delay="1.0">404 - Page Not Found.</h2>
+      <p class="half-spacer" data-m="bounce-up">SPACER</p>
+      <p data-m="bounce-up">9/10 times this means I forgot to upload this part of the site.</p>
 </body>
 </html>
